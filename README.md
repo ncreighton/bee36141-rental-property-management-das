@@ -1,2 +1,30 @@
-# bee36141-rental-property-management-das
-Rental Property Management Dashboard — a professional-grade notion template for real estate professionals. Built for production use with comprehensive documentation, instant setup, and regular updates included. Save hours of development time with this ready-to-deploy solution. Includes setup guide, configuration templates, and best practices. One-t
+# Rental Property Management Dashboard
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM00jdPpgaU1de8nGcZb0N)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM00jdPpgaU1de8nGcZb0N)
+- [Buy on Whop](https://whop.com/rental-property-management-dashboard)
+
